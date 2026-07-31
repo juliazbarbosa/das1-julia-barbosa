@@ -24,8 +24,3 @@ Fullstack, dados, segurança
 ## O que considero um software bem projetado?
 Um software que nao apresente erros após os testes e continue funcionando bem após alterações, esteja de acordo com os requisitos funcionais, nao funcionais e regraas de negócio.
 
-Li e utilizei a estrutura solicitada
-
-Escreva uma resposta curta utilizando suas próprias palavras.
-
-Neste campo, escreva: "Li e utilizei a estrutura solicitada".

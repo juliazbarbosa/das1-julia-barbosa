@@ -1,5 +1,4 @@
 # das1-julia-barbosa
-Confirme que você leu a estrutura abaixo:
 
 # Design e Arquitetura de Software 1
 
